@@ -34,7 +34,7 @@ public class Pattern38 {
 
 	        System.out.println("Largest Element: " + largest);
 	        System.out.println("Smallest Element: " + smallest);
-	        System.out.println("Sum of Elements: " + sum);
+	        System.out.println("Sum1 of Elements: " + sum);
 
 	}
 
