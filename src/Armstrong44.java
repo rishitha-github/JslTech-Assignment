@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Armstrong {
+public class Armstrong44 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -27,9 +27,9 @@ public class Armstrong {
         }
 
         if (sum == num) {
-            System.out.println(num + " is an Armstrong number.");
+            System.out.println(num + " is an Armstrong44 number.");
         } else {
-            System.out.println(num + " is not an Armstrong number.");
+            System.out.println(num + " is not an Armstrong44 number.");
         }
 
         
